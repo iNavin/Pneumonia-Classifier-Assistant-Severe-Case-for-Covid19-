@@ -1,1 +1,1 @@
-# Pneumonia-Classifier-Assistant-Severe-Case-for-Covid19-
+# Pneumonia-Classifier-Assistant-Severe-Case-for-Covid19
